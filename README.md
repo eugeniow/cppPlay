@@ -1,7 +1,7 @@
 # cppPlay
 Created this project to brush up on my c++ skills. 
 
-I have not written c++ in a while, and decide to create a project that exercises my coding kills
+I have not written c++ in a while, and decide to create a project that exercises my coding skills
 
 when i was in school git did not exist, when i joined industry cvs was used. 
 
