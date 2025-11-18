@@ -7,8 +7,9 @@ int main ()
 {
 	cout<<"hello world"<<endl;
 	
-	List *lList = new List();
+	//List *lList = new List();
 	
-	
+	//delete lList;
+
 	return 0;
 }
